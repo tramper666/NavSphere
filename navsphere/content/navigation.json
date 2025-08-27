@@ -508,6 +508,14 @@
           "description": "",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "2ea19035-24b2-4c48-9c6e-60f9e8625289",
+          "title": "梯子工具",
+          "icon": "Globe",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
