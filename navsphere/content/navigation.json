@@ -25,10 +25,50 @@
           "enabled": true,
           "items": [
             {
-              "id": "1756274691218",
+              "id": "1990112600001",
               "title": "秀人网 - 美女写真发布页",
               "href": "https://xiurenwz.app/",
               "description": "秀人网专业美女写真平台，每日更新高清模特写真、黑丝美腿、性感高跟图片",
+              "icon": "/assets/img_1756274750208.png",
+              "enabled": true
+            },
+            {
+              "id": "1990112600002",
+              "title": "秀人集收藏家",
+              "href": "http://25.xy02.my/",
+              "description": "启用导航域名:a.2222x.vi/ a.2xiu.vip ",
+              "icon": "/assets/img_1756274750208.png",
+              "enabled": true
+            },
+            {
+              "id": "1990112600003",
+              "title": "秀人网 - 美女写真发布页",
+              "href": "https://www.1y.is/",
+              "description": "英文秀人网站 ",
+              "icon": "/assets/img_1756274750208.png",
+              "enabled": true
+            },
+            {
+              "id": "1990112600004",
+              "title": "HotGirl",
+              "href": "https://www.hotgirl2024.com/",
+              "description": "英文写真合集 ",
+              "icon": "/assets/img_1756274750208.png",
+              "enabled": true
+            },
+            {
+              "id": "1990112600005",
+              "title": "闺影阁",
+              "href": "https://www.guiyingge.top/",
+              "description": "含收费资源，不建议 ",
+              "icon": "/assets/img_1756274750208.png",
+              "enabled": true
+            },
+            {
+              "id": "1990112600006",
+              "title": "NudeGirl",
+              "href": "https://nudegirls4u.com/",
+              "description": "英文，可预览，下载需网盘使用 ",
               "icon": "/assets/img_1756274750208.png",
               "enabled": true
             }
