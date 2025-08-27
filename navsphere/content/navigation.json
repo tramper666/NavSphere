@@ -23,7 +23,16 @@
           "icon": "Image",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1756274691218",
+              "title": "秀人网 - 美女写真发布页",
+              "href": "https://xiurenwz.app/",
+              "description": "秀人网专业美女写真平台，每日更新高清模特写真、黑丝美腿、性感高跟图片",
+              "icon": "/assets/img_1756274750208.png",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "1bffea91-9a1c-419a-a373-c881f7f3dd6c",
