@@ -31,6 +31,22 @@
               "description": "秀人网专业美女写真平台，每日更新高清模特写真、黑丝美腿、性感高跟图片",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=xiurenwz.app",
               "enabled": true
+            },
+            {
+              "id": "1756270240916",
+              "title": "秀人网 - 美女写真发布页",
+              "href": "https://xiurenwz.app/",
+              "description": "秀人网专业美女写真平台，每日更新高清模特写真、黑丝美腿、性感高跟图片",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=xiurenwz.app",
+              "enabled": true
+            },
+            {
+              "id": "1756270337251",
+              "title": "全集秀 导航",
+              "href": "http://a.2xiu.vip/",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=a.2xiu.vip",
+              "enabled": true
             }
           ]
         },
