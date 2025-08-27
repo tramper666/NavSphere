@@ -29,8 +29,8 @@
     },
     {
       "id": "1756269498317",
-      "title": "其他",
-      "icon": "LayoutList",
+      "title": "工具",
+      "icon": "FolderOpen",
       "description": "",
       "enabled": true,
       "items": [],
