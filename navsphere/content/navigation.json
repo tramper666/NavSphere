@@ -71,6 +71,22 @@
               "description": "英文，可预览，下载需网盘使用 ",
               "icon": "/assets/img_1756274750208.png",
               "enabled": true
+            },
+            {
+              "id": "1990112600007",
+              "title": "秀人合集",
+              "href": "https://xiutaku.com/",
+              "description": "需要梯子 ",
+              "icon": "/assets/img_1756274750208.png",
+              "enabled": true
+            },
+            {
+              "id": "1990112600008",
+              "title": "惜染網盤",
+              "href": "https://hefollo.com/",
+              "description": "網盤資源 ",
+              "icon": "/assets/img_1756274750208.png",
+              "enabled": true
             }
           ]
         },
@@ -80,7 +96,16 @@
           "icon": "Video",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1990112600009",
+              "title": "辣妹发布页",
+              "href": "https://lameitv.github.io/",
+              "description": "发布页 ",
+              "icon": "/assets/img_1756274750208.png",
+              "enabled": true
+            }
+          ]
         }
       ]
     },
