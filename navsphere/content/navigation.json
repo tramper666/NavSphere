@@ -563,6 +563,38 @@
               "description": "A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free. - Releases · chen08209/FlClash",
               "icon": "/assets/favicon_1756270924041.png",
               "enabled": true
+            },
+            {
+              "id": "1756270840883",
+              "title": "共享梯子配置",
+              "href": "https://github.com/wzdnzd/aggregator/issues/91",
+              "description": "需遵循以下条款后方可使用，谢谢配合： 合法使用：请遵循您所在国家和地区的法律法规。 禁止非法活动：仅供科研、教育使用，不得用于任何非法用途，如网络攻击或传播恶意软件。 维护国家利益：禁止从事任何有损国家利益的活动。 禁止滥用：请合理使用资源，禁止测速，不得过度占用或滥用。 免责声明：项目维护者不对因使用本项目导致的任何损失负责，用户需自行承担风险。 所有内容均由本项目自动采集自网络，定时更新，侵删 如更新失败请仔细检查 token 是否为最新（为防止滥用，将在大范围分享...",
+              "icon": "/assets/favicon_1756270845534.png",
+              "enabled": true
+            },
+            {
+              "id": "1756270880849",
+              "title": "Hiddify/ GitHub",
+              "href": "https://github.com/hiddify/hiddify-app/releases",
+              "description": "Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free. - Releases · hiddify/hiddify-app",
+              "icon": "/assets/favicon_1756270885404.png",
+              "enabled": true
+            },
+            {
+              "id": "1756270910469",
+              "title": "FlClash-GitHub",
+              "href": "https://github.com/chen08209/FlClash/releases",
+              "description": "A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free. - Releases · chen08209/FlClash",
+              "icon": "/assets/favicon_1756270924041.png",
+              "enabled": true
+            },
+            {
+              "id": "1756270958173",
+              "title": "Clash Verge Rev Alpha",
+              "href": "https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/alpha",
+              "description": "A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience - Release Clash Verge Rev Alpha · clash-verge-rev/clash-verge-rev",
+              "icon": "/assets/favicon_1756270962635.png",
+              "enabled": true
             }
           ]
         }
