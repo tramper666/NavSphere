@@ -16,7 +16,16 @@
       "description": "",
       "enabled": true,
       "items": [],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "136ee2f0-c41b-477a-849e-60ed27a097a7",
+          "title": "写真集",
+          "icon": "FileText",
+          "description": "",
+          "enabled": true,
+          "items": []
+        }
+      ]
     },
     {
       "id": "1756269429123",
