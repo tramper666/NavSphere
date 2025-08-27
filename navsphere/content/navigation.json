@@ -24,6 +24,14 @@
           "description": "",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "1bffea91-9a1c-419a-a373-c881f7f3dd6c",
+          "title": "视频",
+          "icon": "Video",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
